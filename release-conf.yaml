@@ -12,3 +12,5 @@ labels:
   - bot
   - release-bot
   - user-cont
+# whether to allow bot to make PRs based on issues
+trigger_on_issue: true
